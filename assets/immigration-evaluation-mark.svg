@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 280" role="img" aria-labelledby="title desc">
+  <title id="title">Immigration Evaluation mark</title>
+  <desc id="desc">A navy, red, and silver IE monogram with a star and forward-moving stripes.</desc>
+  <defs>
+    <linearGradient id="navy" x1=".1" y1="0" x2=".9" y2="1">
+      <stop stop-color="#173668"/>
+      <stop offset="1" stop-color="#071f48"/>
+    </linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#db1237"/>
+      <stop offset="1" stop-color="#a90028"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#d6d9de"/>
+      <stop offset="1" stop-color="#9298a2"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#navy)" d="M39 18h132v70c0 62-36 118-112 170H39V57c0-23-12-34-35-34v-5h35Z"/>
+  <path fill="url(#red)" d="M184 18h128l-22 67c-8-9-19-13-34-13h-72V18Z"/>
+  <path fill="url(#silver)" d="M184 105h101l-22 63h-79v-63Z"/>
+  <path fill="url(#navy)" d="M181 197h111l-18 61H105c34-17 60-37 76-61Z"/>
+  <path fill="#fff" d="m106 42 10 31h33l-27 19 11 31-27-19-27 19 10-31-27-19h34l10-31Z"/>
+  <path d="M17 263C103 225 158 169 181 96c-33 73-86 126-164 167Z" fill="#fff"/>
+  <path d="M70 263c56-39 94-91 112-156-9 67-31 119-67 156H70Z" fill="#fff"/>
+  <path d="M118 263c34-46 56-96 65-150-2 57-11 107-28 150h-37Z" fill="url(#red)"/>
+</svg>
